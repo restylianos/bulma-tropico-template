@@ -4,7 +4,8 @@
   margin-bottom: 50px;
 }
 
-.our-services-section {
+#carousel-demo {
+  margin-top: 50px;
 }
 
 #card-product-description {
@@ -34,4 +35,57 @@
 .is-white-text-title {
   color: white !important;
   text-transform: uppercase;
+}
+
+.is-256x256 {
+  width: 256px !important;
+  height: 256px !important;
+}
+
+#contact-section {
+  background-image: url(https://technext.github.io/tropika//images/orange-dish.png);
+  background-repeat: no-repeat;
+  height: 500px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  background-position: right center;
+  overflow: hidden;
+}
+
+input.is-custom-field {
+  border-bottom: 0.8px solid #252525 !important;
+  outline: none;
+  border: none;
+  box-shadow: none !important;
+  /* width: 90% !important; */
+  border-radius: unset;
+}
+
+textarea {
+  border-bottom: 0.8px solid #252525 !important;
+  outline: none !important;
+  border: none;
+  box-shadow: none !important;
+  border-radius: unset;
+  border-color: none !important;
+  outline-color: none !important;
+}
+
+#map {
+  width: 100% !important;
+  height: 400px;
+  margin-bottom: 50px;
+}
+
+.footer-main {
+  background-color: white !important;
+  padding: 0 !important;
+}
+
+.footer-secondary {
+  padding: 20px;
+  margin-top: 20px;
 }
