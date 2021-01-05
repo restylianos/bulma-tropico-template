@@ -1,0 +1,37 @@
+#carousel-section {
+  background-color: #f7f7f7 !important;
+  padding: 50px 0;
+  margin-bottom: 50px;
+}
+
+.our-services-section {
+}
+
+#card-product-description {
+  color: orange;
+}
+
+#services-text-container,
+#fresh-fruits-text {
+  margin-bottom: 50px;
+}
+
+#fresh-fruits-section {
+  margin-top: 50px;
+}
+
+#tasty-fruits-section {
+  background-image: url(https://technext.github.io/tropika/images/tasty-image.png);
+  background-repeat: no-repeat;
+  height: 400px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.is-white-text-title {
+  color: white !important;
+  text-transform: uppercase;
+}
