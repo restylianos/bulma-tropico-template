@@ -36,6 +36,11 @@
   margin-bottom: 100px;
 }
 
+.card:hover {
+  transform: scale(1.02);
+  border-top: 5px solid #fc5d35;
+}
+
 .is-white-text-title {
   color: white !important;
   text-transform: uppercase;
